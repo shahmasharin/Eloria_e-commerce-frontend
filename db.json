@@ -1,0 +1,927 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Oud Classic",
+      "slug": "oud-classic",
+      "brand": "Ahmed Al Maghribi",
+      "size": "50 ML",
+      "description": "A rich oud-focused fragrance from Ahmed Al Maghribi.",
+      "price": 3999,
+      "count": 10,
+      "category": "Oud",
+      "image": "/products/product.1.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": true,
+      "created_at": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Laathani",
+      "slug": "laathani",
+      "brand": "Ahmed Al Maghribi",
+      "size": "80 ML",
+      "description": "A warm fragrance with oud, amber and musk character.",
+      "price": 5999,
+      "count": 13,
+      "category": "Amber",
+      "image": "/products/product2.webp",
+      "isActive": false,
+      "isFeatured": false,
+      "isTrending": false,
+      "created_at": "2026-09-25T00:05:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Musk & Roses",
+      "slug": "musk-roses",
+      "brand": "Ahmed Al Maghribi",
+      "size": "75 ML",
+      "description": "A musky fragrance with a soft rose character.",
+      "price": 4400,
+      "count": 1,
+      "category": "Musk",
+      "image": "/products/product3.webp",
+      "isActive": true,
+      "isFeatured": true,
+      "isTrending": false,
+      "created_at": "2026-09-25T00:10:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Ighraa",
+      "slug": "ighraa",
+      "brand": "Ahmed Al Maghribi",
+      "size": "100 ML",
+      "description": "A warm and expressive fragrance with a spicy character.",
+      "price": 3599,
+      "count": 10,
+      "category": "Spicy",
+      "image": "/products/product4.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": false,
+      "created_at": "2026-09-25T00:15:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "White Oud",
+      "slug": "white-oud",
+      "brand": "Ajmal",
+      "size": "100 ML",
+      "description": "An oriental fragrance with woody, musky and ambery character.",
+      "price": 2499,
+      "count": 10,
+      "category": "Oud",
+      "image": "/products/product5.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": false,
+      "created_at": "2026-09-25T00:20:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Musk Silk Supreme",
+      "slug": "musk-silk-supreme",
+      "brand": "Ajmal",
+      "size": "50 ML",
+      "description": "A soft musky fragrance with floral and amber character.",
+      "price": 4250,
+      "count": 10,
+      "category": "Musk",
+      "image": "/products/product6.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": false,
+      "created_at": "2026-09-25T00:30:00.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Kuro",
+      "slug": "kuro",
+      "brand": "Ajmal",
+      "size": "90 ML",
+      "description": "A bold aromatic fragrance with spicy and woody character.",
+      "price": 2100,
+      "count": 5,
+      "category": "Spicy",
+      "image": "/products/product7.webp",
+      "isActive": true,
+      "isFeatured": true,
+      "isTrending": false,
+      "created_at": "2026-09-25T00:35:00.000Z"
+    },
+    {
+      "id": "8",
+      "name": "Najd",
+      "slug": "najd",
+      "brand": "Arabian Oud",
+      "size": "75 ML",
+      "description": "An oriental fragrance centered around rare oud and saffron.",
+      "price": 4099,
+      "count": 4,
+      "category": "Oud",
+      "image": "/products/product8.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": false,
+      "created_at": "2026-09-25T00:40:00.000Z"
+    },
+    {
+      "id": "9",
+      "name": "Kalemat",
+      "slug": "kalemat",
+      "brand": "Arabian Oud",
+      "size": "100 ML",
+      "description": "A warm amber and woody fragrance with saffron and cinnamon.",
+      "price": 3899,
+      "count": 10,
+      "category": "Amber",
+      "image": "/products/product9.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": false,
+      "created_at": "2026-09-25T00:45:00.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Nobles",
+      "slug": "nobles",
+      "brand": "Arabian Oud",
+      "size": "80 ML",
+      "description": "A refined and luxurious fragrance from Arabian Oud.",
+      "price": 2899,
+      "count": 7,
+      "category": "Spicy",
+      "image": "/products/product10.webp",
+      "isActive": false,
+      "isFeatured": false,
+      "isTrending": true,
+      "created_at": "2026-09-25T00:55:00.000Z"
+    },
+    {
+      "id": "11",
+      "name": "Supremacy In Oud",
+      "slug": "supremacy-in-oud",
+      "brand": "Afnan",
+      "size": "100 ML",
+      "description": "A rich oud fragrance with a deep and luxurious character.",
+      "price": 3999,
+      "count": 10,
+      "category": "Oud",
+      "image": "/products/product11.webp",
+      "isActive": true,
+      "isFeatured": true,
+      "isTrending": false,
+      "created_at": "2026-09-25T01:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "name": "Supremacy Gala",
+      "slug": "supremacy-gala",
+      "brand": "Afnan",
+      "size": "90 ML",
+      "description": "A warm gourmand fragrance with an amber character.",
+      "price": 2899,
+      "count": 10,
+      "category": "Amber",
+      "image": "/products/product12.webp",
+      "isActive": true,
+      "isFeatured": true,
+      "isTrending": false,
+      "created_at": "2026-09-25T01:05:00.000Z"
+    },
+    {
+      "id": "13",
+      "name": "Supremacy In Heaven",
+      "slug": "supremacy-in-heaven",
+      "brand": "Afnan",
+      "size": "100 ML",
+      "description": "A fresh fragrance with musky and woody character.",
+      "price": 4600,
+      "count": 10,
+      "category": "Musk",
+      "image": "/products/product13.webp",
+      "isActive": true,
+      "isFeatured": true,
+      "isTrending": false,
+      "created_at": "2026-09-25T01:10:00.000Z"
+    },
+    {
+      "id": "14",
+      "name": "9 PM Elixir",
+      "slug": "9-pm-elixir",
+      "brand": "Afnan",
+      "size": "100 ML",
+      "description": "A warm fragrance with spicy, amber and leather character.",
+      "price": 3999,
+      "count": 10,
+      "category": "Spicy",
+      "image": "/products/product14.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": true,
+      "created_at": "2026-09-25T01:15:00.000Z"
+    },
+    {
+      "id": "15",
+      "name": "Oud 07",
+      "slug": "oud-07",
+      "brand": "Swiss Arabian",
+      "size": "50 ML",
+      "description": "A luxurious oud fragrance with a warm oriental character.",
+      "price": 4099,
+      "count": 7,
+      "category": "Oud",
+      "image": "/products/product15.webp",
+      "isActive": true,
+      "isFeatured": true,
+      "isTrending": false,
+      "created_at": "2026-09-25T01:20:00.000Z"
+    },
+    {
+      "id": "16",
+      "name": "Shaghaf Oud Azraq",
+      "slug": "shaghaf-oud-azraq",
+      "brand": "Swiss Arabian",
+      "size": "75 ML",
+      "description": "A rich oud fragrance with a warm amber character.",
+      "price": 4100,
+      "count": 10,
+      "category": "Amber",
+      "image": "/products/product16.webp",
+      "isActive": true,
+      "isFeatured": true,
+      "isTrending": true,
+      "created_at": "2026-09-25T01:25:00.000Z"
+    },
+    {
+      "id": "17",
+      "name": "Musk 01",
+      "slug": "musk-01",
+      "brand": "Swiss Arabian",
+      "size": "50 ML",
+      "description": "A refined musk fragrance with a soft and elegant character.",
+      "price": 5199,
+      "count": 10,
+      "category": "Musk",
+      "image": "/products/product17.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": true,
+      "created_at": "2026-09-25T01:30:00.000Z"
+    },
+    {
+      "id": "18",
+      "name": "Shaghaf Oud Royale",
+      "slug": "shaghaf-oud-royale",
+      "brand": "Swiss Arabian",
+      "size": "75 ML",
+      "description": "A rich and expressive fragrance with oud and spicy character.",
+      "price": 3999,
+      "count": 9,
+      "category": "Spicy",
+      "image": "/products/product18.webp",
+      "isActive": true,
+      "isFeatured": true,
+      "isTrending": false,
+      "created_at": "2026-09-25T01:35:00.000Z"
+    },
+    {
+      "name": "Rhythm of Oud",
+      "brand": "Ajmal",
+      "category": "Oud",
+      "size": "75 ML",
+      "price": 7999,
+      "count": 16,
+      "description": "A warm and elegant oud fragrance with spicy, woody, and floral notes.",
+      "image": "/products/product19.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": true,
+      "created_at": "2026-10-07T07:13:23.876Z",
+      "id": "Aqh3817H1AE",
+      "slug": "rhythm-of-oud"
+    },
+    {
+      "name": "Marj",
+      "brand": "Ahmed Al Maghribi",
+      "category": "Oud",
+      "size": "60ml",
+      "price": 6599,
+      "count": 15,
+      "description": "A rich oriental fragrance blending fresh citrus, warm spices, oud, honey, floral notes, amber, musk, and smooth woods for an elegant and long-lasting scent.",
+      "image": "/products/product20.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": false,
+      "slug": "marj",
+      "created_at": "2026-10-07T09:39:11.616Z",
+      "id": "jon7sG32fsQ"
+    },
+    {
+      "name": "Arabian Oud SIGNATURE",
+      "brand": "Arabian Oud",
+      "category": "Spicy",
+      "size": "50 ML",
+      "price": 4899,
+      "count": 20,
+      "description": "A bold, refined woody-spicy fragrance designed as a signature evening option",
+      "image": "/products/product21.webp",
+      "isActive": true,
+      "isFeatured": false,
+      "isTrending": true,
+      "slug": "arabian-oud-signature",
+      "created_at": "2026-10-08T06:14:10.064Z",
+      "id": "CgkPnZEXvQs"
+    }
+  ],
+  "users": [
+    {
+      "name": "demo",
+      "email": "demo@eloria.com",
+      "password": "123456",
+      "role": "user",
+      "isBlock": true,
+      "created_at": "2026-09-24T03:59:50.677Z",
+      "id": "cE6EFD1TCyw"
+    },
+    {
+      "name": "Shahma Sharin",
+      "email": "sharinshahmaa@gmail.com",
+      "password": "147852",
+      "role": "user",
+      "isBlock": false,
+      "created_at": "2026-10-02T06:09:08.648Z",
+      "id": "veLRfQyw2fo"
+    },
+    {
+      "name": "mhd famil",
+      "email": "familfaa@gmail.com",
+      "password": "familfaa",
+      "role": "user",
+      "isBlock": false,
+      "created_at": "2026-10-02T06:10:36.876Z",
+      "id": "-rwWL2afaa0",
+      "cart": [
+        {
+          "productId": "1",
+          "quantity": 9
+        },
+        {
+          "productId": "6",
+          "quantity": 8
+        },
+        {
+          "productId": "7",
+          "quantity": 5
+        },
+        {
+          "productId": "3",
+          "quantity": 1
+        }
+      ],
+      "wishlist": [
+        "jon7sG32fsQ",
+        "Aqh3817H1AE",
+        "6",
+        "1"
+      ]
+    },
+    {
+      "name": "ÉLORIA Admin",
+      "email": "admin@eloria.com",
+      "password": "admin123",
+      "role": "admin",
+      "isBlock": false,
+      "created_at": "2026-10-05T00:00:00.000Z",
+      "id": "admin-001"
+    },
+    {
+      "name": "shahma sharin",
+      "email": "shammu@gmail.com",
+      "password": "shammu123",
+      "role": "user",
+      "isBlock": false,
+      "cart": [],
+      "wishlist": [],
+      "created_at": "2026-10-06T11:07:46.944Z",
+      "id": "_mtfJYZd0pc"
+    },
+    {
+      "name": "shemmu",
+      "email": "shemmu123@gmail.com",
+      "password": "shemmu123",
+      "role": "user",
+      "isBlock": false,
+      "cart": [],
+      "wishlist": [],
+      "created_at": "2026-10-08T07:19:32.060Z",
+      "id": "1JW51qZM5p0"
+    },
+    {
+      "name": "final",
+      "email": "final@gmail.com",
+      "password": "final123",
+      "role": "admin",
+      "isBlock": false,
+      "cart": [],
+      "wishlist": [],
+      "created_at": "2026-10-12T03:58:29.230Z",
+      "id": "9LD-EhXCwbE"
+    },
+    {
+      "name": "jumnasiya",
+      "email": "jumnasiya@gmail.com",
+      "password": "jumnasiya123",
+      "role": "user",
+      "isBlock": false,
+      "cart": [],
+      "wishlist": [
+        "3",
+        "CgkPnZEXvQs"
+      ],
+      "created_at": "2026-10-14T05:13:21.935Z",
+      "id": "Qn-35h_TzgM"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "2",
+          "name": "Laathani",
+          "quantity": 2,
+          "price": 5999,
+          "image": "/products/product2.webp"
+        }
+      ],
+      "subtotal": 11998,
+      "shipping": 0,
+      "total": 11998,
+      "shippingAddress": {
+        "fullName": "Shahma Sharin",
+        "phone": "07306341852",
+        "address": "Malayil house Paleri Town po Paleri",
+        "city": "Kozhikode",
+        "state": "KERALA",
+        "pincode": "673508"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Shipped",
+      "created_at": "2026-09-28T13:54:51.509Z",
+      "id": "3_FWxWsCd6k"
+    },
+    {
+      "userId": "XeeZ-ENnkPA",
+      "items": [
+        {
+          "productId": "8",
+          "name": "Najd",
+          "quantity": 1,
+          "price": 4099,
+          "image": "/products/product8.webp"
+        },
+        {
+          "productId": "3",
+          "name": "Musk & Roses",
+          "quantity": 1,
+          "price": 4400,
+          "image": "/products/product3.webp"
+        }
+      ],
+      "subtotal": 8499,
+      "shipping": 0,
+      "total": 8499,
+      "shippingAddress": {
+        "fullName": "famil",
+        "phone": "9949852410",
+        "address": "othiyot ktdy shmdyne",
+        "city": "koxhikode",
+        "state": "kerala",
+        "pincode": "451275"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Shipped",
+      "created_at": "2026-09-29T04:12:14.798Z",
+      "id": "H2K70tX9sso"
+    },
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "5",
+          "name": "White Oud",
+          "quantity": 2,
+          "price": 2499,
+          "image": "/products/product5.webp"
+        },
+        {
+          "productId": "6",
+          "name": "Musk Silk Supreme",
+          "quantity": 1,
+          "price": 4250,
+          "image": "/products/product6.webp"
+        }
+      ],
+      "subtotal": 9248,
+      "shipping": 0,
+      "total": 9248,
+      "shippingAddress": {
+        "fullName": "Shahma Sharin",
+        "phone": "7458961236",
+        "address": "Malayil house\nPunnachuvattil road Paleri town postoffice, Koothuparamba – Chovva Bypass Road",
+        "city": "Kozhikode",
+        "state": "KERALA",
+        "pincode": "673508"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Processing",
+      "created_at": "2026-10-02T05:20:14.986Z",
+      "id": "LZDvFxoOWfo"
+    },
+    {
+      "userId": "-rwWL2afaa0",
+      "items": [
+        {
+          "productId": "3",
+          "name": "Musk & Roses",
+          "quantity": 2,
+          "price": 4400,
+          "image": "/products/product3.webp"
+        }
+      ],
+      "subtotal": 8800,
+      "shipping": 0,
+      "total": 8800,
+      "shippingAddress": {
+        "fullName": "sdghjkl",
+        "phone": "7306341852",
+        "address": "Malayil house Paleri Town po Paleri",
+        "city": "Kozhikode",
+        "state": "Kerala",
+        "pincode": "673508"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Placed",
+      "created_at": "2026-10-02T09:15:42.440Z",
+      "id": "U4aKD7QqR1c"
+    },
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "2",
+          "name": "Laathani",
+          "quantity": 9,
+          "price": 5999,
+          "image": "/products/product2.webp"
+        },
+        {
+          "productId": "7",
+          "name": "Kuro",
+          "quantity": 7,
+          "price": 2100,
+          "image": "/products/product7.webp"
+        }
+      ],
+      "subtotal": 68691,
+      "shipping": 0,
+      "total": 68691,
+      "shippingAddress": {
+        "fullName": "Muhammed famil Bin fasil",
+        "phone": "8742154828",
+        "address": "Air Fryer",
+        "city": "koxhikode",
+        "state": "EVKA-AF4001BS",
+        "pincode": "857412"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Delivered",
+      "created_at": "2026-10-06T09:34:59.532Z",
+      "id": "E9wCBB18Cmk"
+    },
+    {
+      "userId": "_mtfJYZd0pc",
+      "items": [
+        {
+          "productId": "2",
+          "name": "Laathani",
+          "quantity": 6,
+          "price": 5999,
+          "image": "/products/product2.webp"
+        }
+      ],
+      "subtotal": 35994,
+      "shipping": 0,
+      "total": 35994,
+      "shippingAddress": {
+        "fullName": "shahma",
+        "phone": "9874587456",
+        "address": "no address yet",
+        "city": "nonn",
+        "state": "hhhooh",
+        "pincode": "675896"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Processing",
+      "created_at": "2026-10-06T11:08:35.727Z",
+      "id": "jl4yIHFcMK8"
+    },
+    {
+      "userId": "_mtfJYZd0pc",
+      "items": [
+        {
+          "productId": "7",
+          "name": "Kuro",
+          "quantity": 9,
+          "price": 2100,
+          "image": "/products/product7.webp"
+        }
+      ],
+      "subtotal": 18900,
+      "shipping": 0,
+      "total": 18900,
+      "shippingAddress": {
+        "fullName": "Muhammed famil Bin fasil",
+        "phone": "8742154828",
+        "address": "Air Fryer",
+        "city": "koxhikode",
+        "state": "EVKA-AF4001BS",
+        "pincode": "857412"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Confirmed",
+      "created_at": "2026-10-06T11:10:39.355Z",
+      "id": "9JqNLglDgzU"
+    },
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "3",
+          "name": "Musk & Roses",
+          "quantity": 8,
+          "price": 4400,
+          "image": "/products/product3.webp"
+        }
+      ],
+      "subtotal": 35200,
+      "shipping": 0,
+      "total": 35200,
+      "shippingAddress": {
+        "fullName": "demo user",
+        "phone": "9874589654",
+        "address": "demo house near demo",
+        "city": "demo city",
+        "state": "demo land",
+        "pincode": "857464"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Confirmed",
+      "created_at": "2026-10-07T05:13:06.717Z",
+      "id": "ediC-NFqudE"
+    },
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "7",
+          "name": "Kuro",
+          "quantity": 1,
+          "price": 2100,
+          "image": "/products/product7.webp"
+        }
+      ],
+      "subtotal": 2100,
+      "shipping": 0,
+      "total": 2100,
+      "shippingAddress": {
+        "fullName": "demo user",
+        "phone": "9856987458",
+        "address": "demo house near demo",
+        "city": "demo",
+        "state": "demo",
+        "pincode": "589657"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Processing",
+      "created_at": "2026-10-07T05:16:07.639Z",
+      "id": "errC-_47z0g"
+    },
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "Aqh3817H1AE",
+          "name": "Rhythm of Oud",
+          "quantity": 10,
+          "price": 7999,
+          "image": "/products/product19.webp"
+        }
+      ],
+      "subtotal": 79990,
+      "shipping": 0,
+      "total": 79990,
+      "shippingAddress": {
+        "fullName": "Muhammed famil Bin fasil",
+        "phone": "8742154828",
+        "address": "Air Fryer",
+        "city": "koxhikode",
+        "state": "EVKA-AF4001BS",
+        "pincode": "857412"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Placed",
+      "created_at": "2026-10-07T09:31:40.583Z",
+      "id": "c-t9TIpL2f8"
+    },
+    {
+      "userId": "1JW51qZM5p0",
+      "items": [
+        {
+          "productId": "2",
+          "name": "Laathani",
+          "quantity": 4,
+          "price": 5999,
+          "image": "/products/product2.webp"
+        },
+        {
+          "productId": "CgkPnZEXvQs",
+          "name": "Arabian Oud SIGNATURE",
+          "quantity": 5,
+          "price": 4899,
+          "image": "/products/product21.webp"
+        },
+        {
+          "productId": "Aqh3817H1AE",
+          "name": "Rhythm of Oud",
+          "quantity": 3,
+          "price": 7999,
+          "image": "/products/product19.webp"
+        },
+        {
+          "productId": "3",
+          "name": "Musk & Roses",
+          "quantity": 1,
+          "price": 4400,
+          "image": "/products/product3.webp"
+        },
+        {
+          "productId": "15",
+          "name": "Oud 07",
+          "quantity": 3,
+          "price": 4099,
+          "image": "/products/product15.webp"
+        },
+        {
+          "productId": "7",
+          "name": "Kuro",
+          "quantity": 2,
+          "price": 2100,
+          "image": "/products/product7.webp"
+        },
+        {
+          "productId": "10",
+          "name": "Nobles",
+          "quantity": 3,
+          "price": 2899,
+          "image": "/products/product10.webp"
+        }
+      ],
+      "subtotal": 102082,
+      "shipping": 0,
+      "total": 102082,
+      "shippingAddress": {
+        "fullName": "shemmu",
+        "phone": "8574658974",
+        "address": "new street",
+        "city": "clct",
+        "state": "kl",
+        "pincode": "857465"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Processing",
+      "created_at": "2026-10-08T07:22:13.256Z",
+      "id": "hv6Vjr4TJs8"
+    },
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "2",
+          "name": "Laathani",
+          "quantity": 1,
+          "price": 5999,
+          "image": "/products/product2.webp"
+        },
+        {
+          "productId": "CgkPnZEXvQs",
+          "name": "Arabian Oud SIGNATURE",
+          "quantity": 1,
+          "price": 4899,
+          "image": "/products/product21.webp"
+        }
+      ],
+      "subtotal": 10898,
+      "shipping": 0,
+      "total": 10898,
+      "shippingAddress": {
+        "fullName": "Muhammed famil Bin fasil",
+        "phone": "8542154828",
+        "address": "Air Fryer",
+        "city": "clt",
+        "state": "EVKA-AF4001BS",
+        "pincode": "857458"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Cancelled",
+      "created_at": "2026-10-09T04:13:39.302Z",
+      "id": "CuR1aqUgjoI"
+    },
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "8",
+          "name": "Najd",
+          "quantity": 1,
+          "price": 4099,
+          "image": "/products/product8.webp"
+        }
+      ],
+      "subtotal": 4099,
+      "shipping": 0,
+      "total": 4099,
+      "shippingAddress": {
+        "fullName": "Muhammed famil Bin fasil",
+        "phone": "8742154828",
+        "address": "Air Fryer",
+        "city": "koxhikode",
+        "state": "EVKA-AF4001BS",
+        "pincode": "857412"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Shipped",
+      "created_at": "2026-10-09T09:44:42.805Z",
+      "id": "xecHOJVf07M"
+    },
+    {
+      "userId": "cE6EFD1TCyw",
+      "items": [
+        {
+          "productId": "18",
+          "name": "Shaghaf Oud Royale",
+          "quantity": 1,
+          "price": 3999,
+          "image": "/products/product18.webp"
+        }
+      ],
+      "subtotal": 3999,
+      "shipping": 0,
+      "total": 3999,
+      "shippingAddress": {
+        "fullName": "Shahma Sharin",
+        "phone": "8978945688",
+        "address": "Malayil House, Punnachuvattil Road, Paleri Town, Koothuparamba",
+        "city": "Koothuparamba",
+        "state": "Kerala",
+        "pincode": "673508"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Placed",
+      "created_at": "2026-10-10T15:31:51.560Z",
+      "id": "C9kSaj2CtPI"
+    },
+    {
+      "userId": "Qn-35h_TzgM",
+      "items": [
+        {
+          "productId": "8",
+          "name": "Najd",
+          "quantity": 5,
+          "price": 4099,
+          "image": "/products/product8.webp"
+        }
+      ],
+      "subtotal": 20495,
+      "shipping": 0,
+      "total": 20495,
+      "shippingAddress": {
+        "fullName": "jumnasiya",
+        "phone": "9874578548",
+        "address": "dfhggybv kljhn imbjkikbjj",
+        "city": "ijnbh",
+        "state": "kl",
+        "pincode": "648596"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "status": "Shipped",
+      "created_at": "2026-10-14T05:17:02.162Z",
+      "id": "36Tw3MH9uSk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
