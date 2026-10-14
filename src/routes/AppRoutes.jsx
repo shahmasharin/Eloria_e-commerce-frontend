@@ -10,7 +10,7 @@ import ProductDetails from "../pages/user/ProductDetails";
 import Login from "../pages/user/Login";
 import Register from "../pages/user/Register";
 import Cart from "../pages/user/Cart";
-import Wishlist from "../pages/user/Wishlist";
+import Wishlist from "../pages/user/WishList";
 import Checkout from "../pages/user/Checkout";
 import Orders from "../pages/user/Orders";
 import OrderDetails from "../pages/user/OrderDetails";

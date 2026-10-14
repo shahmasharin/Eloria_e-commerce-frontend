@@ -437,7 +437,12 @@
       "password": "jumnasiya123",
       "role": "user",
       "isBlock": false,
-      "cart": [],
+      "cart": [
+        {
+          "productId": "5",
+          "quantity": 2
+        }
+      ],
       "wishlist": [
         "3",
         "CgkPnZEXvQs"
